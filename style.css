@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap');
+
+body{
+width: 100%;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: black;
+}
+
+
+input{
+    color: #fff;
+    padding: 17px;
+    outline: none;
+    font-size: 25px;
+    font-family: 'Unbounded', cursive;
+    border-radius: 20px;
+}
+
+.num{
+    width: 64px;
+    height: 67px;
+}
+
+
+.main{
+    display: inline-block;
+}
+
+.text{
+    width: 150px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+.text1{
+    border-radius: 20px;
+    width: 22px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.blue{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 60px;
+    cursor: pointer;
+
+}
+
+.pin{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.gre{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.ora{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 60px;
+    margin-left: -1px;
+    cursor: pointer;
+}
+
+.pur{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(255, 179, 0);
+    border-radius: 100px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.num-maincolor{
+    border-radius: 20px;
+    width: 60px;
+    background-color: rgb(205, 205, 205);
+    border-radius: 100px;
+    height: 60px;
+    cursor: pointer;
+}
